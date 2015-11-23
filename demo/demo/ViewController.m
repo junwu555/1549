@@ -21,6 +21,7 @@
 - (void)loadData{
     NSLog(@"下载成功");
     NSLog(@"hoahsdfhad");
+    NSLog( @"hiasdifhasidflhad00");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
