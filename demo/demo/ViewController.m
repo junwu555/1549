@@ -20,6 +20,7 @@
 }
 - (void)loadData{
     NSLog(@"下载成功");
+    NSLog(@"hoahsdfhad");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
